@@ -15,9 +15,9 @@ My Project for Digital Signal Processing and Speech Signal Analysis.
     KNN / KMEANS
 ```    
 ###Python  
-    
+```    
     LSTM model in Keras: train/test
- 
+``` 
 ##Result  
 ```
     KNN: k = 20; accuracy: about 70%  
