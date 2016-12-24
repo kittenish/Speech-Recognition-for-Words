@@ -20,8 +20,9 @@ My Project for Digital Signal Processing and Speech Signal Analysis.
 ##Result  
 ```
     KNN: k = 20; accuracy: about 70%  
-    LSTM:  
-        Male   : validation:91.18%  test:97.09%  
+    KMEANS: Terrible
+    LSTM:   
+        Train model for male/female seperately  
+        Male   : validation:91.18%  test:97.09%  
         Female : validation:94.30%  test:97.42%
  ```   
-###Train model for male/female seperately
