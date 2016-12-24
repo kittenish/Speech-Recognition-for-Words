@@ -10,10 +10,10 @@ My Project for Digital Signal Processing and Speech Signal Analysis.
 ```    
 ##Code
 ###Matlab  
-    
+```    
     Processing raw speech signal: detect valid segment/mfcc feature   
     KNN / KMEANS
-    
+```    
 ###Python  
     
     LSTM model in Keras: train/test
