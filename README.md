@@ -12,5 +12,5 @@ My Project for Digital Signal Processing and Speech Signal Analysis.
     LSTM model in Keras: train/test
 
 ****  
-##Result  
+##Result
 ###Train model for male/female seperately
