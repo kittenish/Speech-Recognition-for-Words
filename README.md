@@ -4,7 +4,8 @@ My Project for Digital Signal Processing and Speech Signal Analysis.
 **** 
 ##Data  
 
-    20 label:  
+    20 label: '数字','语音','信号','分析','识别','北京','背景','上海','商行',  
+                '复旦','speech','voice','sound','happy','lucky','file','open','close','start','stop'
     All data comes from fellow classmates of this class.
     
 ##Code
